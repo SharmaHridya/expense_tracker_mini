@@ -1,0 +1,33 @@
+date,description,category,amount,payment_mode,month
+2026-09-01,Mess fees,Food,3200,UPI,2026-09
+2026-09-02,Auto to bus stand,Transport,60,CASH,2026-09
+2026-09-03,Python course,Education,499,UPI,2026-09
+2026-09-05,Maggi and chips,Food,120,CASH,2026-09
+2026-09-06,Movie night,Entertainment,350,UPI,2026-09
+2026-09-08,Mobile recharge,Bills,299,UPI,2026-09
+2026-09-09,Bus to Chandigarh,Transport,280,CASH,2026-09
+2026-09-10,T-shirt,Shopping,799,CARD,2026-09
+2026-09-12,Canteen lunch,Food,90,CASH,2026-09
+2026-09-14,Notebook and pens,Education,210,CASH,2026-09
+2026-09-15,Coffee with friends,Food,240,UPI,2026-09
+2026-09-17,Spotify,Entertainment,119,CARD,2026-09
+2026-09-19,Train ticket home,Transport,450,UPI,2026-09
+2026-09-21,Headphones,Shopping,1499,CARD,2026-09
+2026-09-23,Pizza,Food,380,UPI,2026-09
+2026-09-25,Gift for friend,Uncategorized,600,UPI,2026-09
+2026-09-27,Laundry,Bills,150,CASH,2026-09
+2026-09-29,Stationery,Education,180,CASH,2026-09
+2026-10-01,Mess fees,Food,3200,UPI,2026-10
+2026-10-02,Auto,Transport,80,CASH,2026-10
+2026-10-03,Sweatshirt,Shopping,1299,CARD,2026-10
+2026-10-04,Fest entry pass,Entertainment,500,UPI,2026-10
+2026-10-05,Mobile recharge,Bills,299,UPI,2026-10
+2026-10-06,Canteen snacks,Food,110,CASH,2026-10
+2026-10-07,Bus to Delhi,Transport,650,UPI,2026-10
+2026-10-08,Hackathon registration,Education,300,UPI,2026-10
+2026-10-09,Dinner out,Food,520,UPI,2026-10
+2026-10-10,Spotify,Entertainment,119,CARD,2026-10
+2026-10-11,Laundry,Bills,150,CASH,2026-10
+2026-10-12,Book,Education,450,CARD,2026-10
+2026-10-13,Chai and samosa,Food,60,CASH,2026-10
+2026-10-13,Refund test,Shopping,-200,UPI,2026-10
